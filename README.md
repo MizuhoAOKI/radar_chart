@@ -39,3 +39,8 @@ Radar Chart of Cylinder Garden
 Radar Chart of Maze
 
 <img src="./media/radar_maze.png" width="300" />
+
+## Acknowledgement
+I used [pyCirclize](https://moshi4.github.io/pyCirclize/) to plot the rader charts.
+
+Thank you for developing such a useful visualization tool!

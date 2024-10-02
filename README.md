@@ -10,7 +10,7 @@
 
 - [rye](https://rye.astral.sh/)
   - seting up python environment easily and safely.
-  - only `numpy`, `matplotlib`, `notebook` are needed to run all scripts in this repository.
+  - `numpy`, `matplotlib`, `notebook`, `pandas`, `pycirclize` are needed to run all scripts in this repository.
 
 ## Setup
 ```sh
